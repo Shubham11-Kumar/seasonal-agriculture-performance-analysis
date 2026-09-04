@@ -232,7 +232,7 @@ notebook/Seasonal_Agriculture_Performance_Analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Shubham Kumar** 
 
 Data Analytics | Python | SQL | Power BI | Data Visualization
 
